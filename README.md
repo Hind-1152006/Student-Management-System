@@ -7,4 +7,4 @@ Simple console app to manage student records.
 - Uses classes and arrays
 
 ## How to Run
-Compile with any C++ compiler and run:
+Compile with any C++ compiler 
