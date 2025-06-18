@@ -1,10 +1,11 @@
-# Student Management System (C++)
+# C++ Student Management System
 
-Simple console app to manage student records.
+A basic console-based student management system written in C++.
 
 ## Features
-- Add, display, and search students
-- Uses classes and arrays
+- Add a new student (auto-increment ID)
+- Display list of all students
+- Search for a student by ID
 
-## How to Run
-Compile with any C++ compiler 
+
+
